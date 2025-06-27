@@ -19,4 +19,6 @@ firstly we have to download Microsoft Visual C++
 #### Download Oracle Virtual Box
 DOwnload latest version from the virtualbox.org site
 
-### Run ubuntu 
+1. Open Orcale virtual box 
+2. create a new machine 
+
