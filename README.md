@@ -15,10 +15,21 @@ firstly we have to download Microsoft Visual C++
 2.  Click on first link
 3.  Download X64 version
 4. Install it
-
 #### Download Oracle Virtual Box
 DOwnload latest version from the virtualbox.org site
 
+### Download latest version of ubuntu 
+
 1. Open Orcale virtual box 
 2. create a new machine 
+3. select ubuntu file as a ISO image
+4. click on next 
 
+
+
+
+
+
+
+
+### Through dual boot setup
